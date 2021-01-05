@@ -1,0 +1,37 @@
+// prettier-ignore
+.Navigation-Breadcrumbs-Wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .Breadcrumbs {
+        margin: 0 auto;
+        padding-left: 30px;
+    }
+
+    .Icon {
+        margin-right: 7px;
+        margin-top: 2px;
+        color: #70BEE6;
+    }
+
+    .Link {
+        display: flex;
+        color:  #F7CD54;
+        font-size: 17px;
+        text-decoration: none;
+    }
+
+    .Separator {
+        color: #70BEE6;
+        font-weight: bolder;
+        font-size: 18px;
+    }
+
+    .LinkBold {
+        display: flex;
+        color:  #F7CD54;
+        font-weight: bolder;
+        font-size: 18px;
+    }
+}
